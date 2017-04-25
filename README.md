@@ -1,5 +1,7 @@
 # www.scoreboard.guru
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/actionhero/www.actionherojs.com.svg)](https://greenkeeper.io/)
+
 [![Build Status](https://travis-ci.org/actionhero/www.actionherojs.com.svg?branch=master)](https://travis-ci.org/actionhero/www.actionherojs.com)
 
 ## Install
